@@ -1,0 +1,6 @@
+[package]
+name = "xube-rast"
+version = "0.1.0"
+authors = ["ewgenius <ewgeniux@gmail.com>"]
+
+[dependencies]
